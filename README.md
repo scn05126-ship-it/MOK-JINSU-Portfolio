@@ -16,6 +16,7 @@ This repository contains selected project reports and presentation materials.
 - Completed a working prototype and presented the final product to Samsung Electronics
 
 **[View Project Portfolio](https://github.com/scn05126-ship-it/MOK-JINSU-Portfolio/blob/main/%EB%AA%A9%EC%A7%84%EC%88%98_Samsung%20SustAInable%20Design%20Project.pdf)**
+
 **[View Final Presentation](https://github.com/scn05126-ship-it/MOK-JINSU-Portfolio/blob/main/%EB%AA%A9%EC%A7%84%EC%88%98_Samsung%20SustAInable%20Design%20Project%20final.pdf)**
 
 ---
