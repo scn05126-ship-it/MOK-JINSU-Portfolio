@@ -65,7 +65,7 @@ This repository contains selected project reports and presentation materials.
 - Evaluated structural behavior under thermal loading conditions
 - Derived a minimum deformation of **100.76 μm** under the selected design condition
 
-**[View Project Report](반도체_PDF_링크)**
+**[View Project Report](https://github.com/scn05126-ship-it/MOK-JINSU-Portfolio/blob/main/%EB%AA%A9%EC%A7%84%EC%88%98_Fan-out%20WLCSP%20%ED%8C%A8%ED%82%A4%EC%A7%80%20Warpage%20%EC%A0%80%EA%B0%90%20%ED%95%B4%EC%84%9D.pdf)**
 
 ---
 
