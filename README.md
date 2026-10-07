@@ -53,7 +53,7 @@ This repository contains selected project reports and presentation materials.
 - Investigated active damping control using 40 kHz ultrasonic excitation
 - Reduced the low-RPM vibration peak by approximately **25%** and transmitted force by approximately **30%**
 
-**[View Thesis](STF_학위논문_PDF_링크)**
+**[View Thesis](https://github.com/scn05126-ship-it/MOK-JINSU-Portfolio/blob/main/%EB%AA%A9%EC%A7%84%EC%88%98_%ED%95%99%EC%9C%84%EB%85%BC%EB%AC%B8%20(%EC%9A%B0%EB%B8%94%EB%A0%89%EC%9D%98%20%EC%B4%88%EC%9D%8C%ED%8C%8C%20%EC%9C%A0%EB%8F%84%20%EB%86%8D%ED%99%94%20%EC%99%84%ED%99%94%20%ED%98%84%EC%83%81%EC%9D%84%20%EC%9D%B4%EC%9A%A9%ED%95%9C%20%20%EB%8A%A5%EB%8F%99%ED%98%95%20%EB%8C%90%ED%8D%BC%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EC%84%A4%EA%B3%84).pdf)**
 
 ---
 
