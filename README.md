@@ -15,7 +15,7 @@ This repository contains selected project reports and presentation materials.
 - Achieved **100% charging deadline satisfaction** and **64.21% energy efficiency**
 - Completed a working prototype and presented the final product to Samsung Electronics
 
-**[View Project Portfolio]([삼성_프로젝트_PDF_링크](https://github.com/scn05126-ship-it/MOK-JINSU-Portfolio/blob/main/%EB%AA%A9%EC%A7%84%EC%88%98_Samsung%20SustAInable%20Design%20Project.pdf))**  
+**[View Project Portfolio](https://github.com/scn05126-ship-it/MOK-JINSU-Portfolio/blob/main/%EB%AA%A9%EC%A7%84%EC%88%98_Samsung%20SustAInable%20Design%20Project.pdf) 
 **[View Final Presentation](삼성_최종발표_PDF_링크)**
 
 ---
