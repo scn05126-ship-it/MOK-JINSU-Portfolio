@@ -29,7 +29,7 @@ This repository contains selected project reports and presentation materials.
 - Reduced the state space from approximately **1.56 million to 100 states** through state abstraction
 - Achieved stable convergence under a large-scale traffic simulation environment
 
-**[View Project Report](강화학습_PDF_링크)**
+**[View Project Report](https://github.com/scn05126-ship-it/MOK-JINSU-Portfolio/blob/main/%EB%AA%A9%EC%A7%84%EC%88%98_Reinforcement%20Learning%20for%20Adaptive%20Traffic%20Control.pdf)**
 
 ---
 
