@@ -77,7 +77,7 @@ This repository contains selected project reports and presentation materials.
 - Managed schedules, roles, participants, and cross-organization communication
 - Planned and operated collaborative programs involving students from multiple disciplines
 
-**[View Activity Portfolio](KUSA_PDF_링크)**
+**[View Activity Portfolio](https://github.com/scn05126-ship-it/MOK-JINSU-Portfolio/blob/main/%EB%AA%A9%EC%A7%84%EC%88%98_KUSA%20%EC%97%B0%ED%95%A9%ED%99%9C%EB%8F%99%20%EB%82%B4%EC%97%AD%20%EC%84%9C%EB%A5%98%20%EB%B0%8F%20%EC%9E%90%EB%A3%8C%20(%EA%B0%80%EC%B2%9C%EB%8C%80%20%EC%97%B0%ED%95%A9).pdf)**
 
 ---
 
