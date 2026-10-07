@@ -41,7 +41,7 @@ This repository contains selected project reports and presentation materials.
 - Participated in manufacturing, assembly, and vehicle integration
 - Reduced **Roll Gradient by 46%** compared with the previous configuration
 
-**[View Working Report](LIGHTON_PDF_링크)**
+**[View Working Report](https://github.com/scn05126-ship-it/MOK-JINSU-Portfolio/blob/main/%EB%AA%A9%EC%A7%84%EC%88%98_LightOn%20working%20report.pdf)**
 
 ---
 
